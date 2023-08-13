@@ -31,7 +31,7 @@ To contribute, follow these steps:
 
 ## Connect with Me
 
-Let's connect and continue our cybersecurity learning journey together! Feel free to connect with me on LinkedIn: [https://www.linkedin.com/in/indrajithsb/]
+Let's connect and continue our cybersecurity learning journey together! Feel free to connect with me on LinkedIn: https://www.linkedin.com/in/indrajithsb/
 
 ## Disclaimer
 
